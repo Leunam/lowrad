@@ -630,5 +630,5 @@ text-decoration:none;
 }
 .modal-body{
   background: #000000;
-  /*max-height: 550px;*/
+  max-height: 550px;
 }
