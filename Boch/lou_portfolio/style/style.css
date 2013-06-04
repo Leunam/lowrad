@@ -655,3 +655,12 @@ height:140px;*/
       margin-top: 10px;
 
   }
+
+.lista{
+  padding:7px 0px;
+  color:#e24e35;
+  line-height: 20px;
+  font-size: 14px;
+  font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+  font-weight: 400;
+}
