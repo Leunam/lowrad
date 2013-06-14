@@ -418,9 +418,13 @@ margin-left:0px;
 #filters li{
 display:inline;
 padding:0px 9px 5px 9px;
-background:#e24e35;
+background:#6fb600;
 color:#fff;
 border-radius:4px;
+}
+
+#filters li.filterall{
+  background: #dd4f4f;
 }
 
 #filters a, #filters a:visited, #filters a:hover{
@@ -660,7 +664,7 @@ height:140px;*/
   padding:7px 0px;
   color:#e24e35;
   line-height: 20px;
-  font-size: 14px;
+  font-size: 12px;
   font-family: 'Open Sans',Arial,Helvetica,sans-serif;
   font-weight: 400;
 }
